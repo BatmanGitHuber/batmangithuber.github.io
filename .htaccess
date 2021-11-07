@@ -1,4 +1,0 @@
-Authtype Basic
-AuthName "LazerFray server"
-AuthUserFile file:///C:/Users/batma/Desktop/.htpasswd
-Require valid-user
