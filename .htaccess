@@ -1,4 +1,4 @@
 Authtype Basic
 AuthName "LazerFray server"
-AuthUserFile https://batmangithuber.github.io/.htpasswd
+AuthUserFile C:\Users\batma\Desktop\.htpasswd
 Require valid-user
