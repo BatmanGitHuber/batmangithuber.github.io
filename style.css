@@ -10,9 +10,9 @@ body{
 	background-size: cover;
 	background-position: bottom;
 }
-font-face{
+@font-face{
 	font-family: "Ponishalphabet2;
-	src: url("Ponishalphabet2.tff")
+	src: url("Ponishalphabet2.tff");
 }
 .main{
 	width: 100%;
