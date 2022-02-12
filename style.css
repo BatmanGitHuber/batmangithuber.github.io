@@ -10,10 +10,6 @@ body{
 	background-size: cover;
 	background-position: bottom;
 }
-@font-face{
-	font-family: "Ponishalphabet2;
-	src: url("/Ponishalphabet2.tff/");
-}
 .main{
 	width: 100%;
 	height: 1412px;
@@ -25,7 +21,7 @@ body{
 }
 .main h1{
 	font-size: 4rem;
-/* 	font-family: "Ponishalphabet2"; */
+	font-family: "Ponishalphabet2";
 }
 .main p{
 	font-size: 2rem;
